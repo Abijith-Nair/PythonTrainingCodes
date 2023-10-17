@@ -1,0 +1,16 @@
+tr,td,th{
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+table{
+    padding: 200px;
+}
+img{
+    border-radius: 30px;
+    border-width: 3px solid;
+    border: solid 4px;
+}
+body{
+    background-color: rgb(75, 156, 69);
+}
